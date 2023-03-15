@@ -3,5 +3,7 @@
 .searchForm {
     display: flex;
     justify-content: center;
+    padding: $base-size ($base-size * 1.5);
+    margin: 0 0 $base-size 0;
 }
 
